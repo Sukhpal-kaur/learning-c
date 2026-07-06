@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main ()
+{
+printf("Sukhpal kaur");
+return 0;
+}
+
+     
+      OUTPUT 
+    Sukhpal kaur
