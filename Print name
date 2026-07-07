@@ -1,10 +1,6 @@
 #include <stdio.h>
 int main()
 {
-printf("Sukhpal kaur");
+printf("Sukhpal Kaur");
 return 0;
 }
-
-     
-      OUTPUT 
-    Sukhpal kaur
